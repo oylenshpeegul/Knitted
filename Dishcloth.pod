@@ -1,0 +1,97 @@
+=head1 NAME
+
+B<Knitted::Dishcloth> - A knitted dishcloth with a camel motif
+
+=head1 DESCRIPTION
+
+These are complete instructions for knitting your own dishcloth. It's
+a basic rectangle with a seed stitch border and stockinette field. 
+A camel motif is rendered in the center in reverse stockinette.
+
+=begin pdf
+
+O<Dishcloth.jpg>
+
+=end pdf
+
+Gauge is not important. Using the yarn and needles listed below, I got
+a cloth about 7.5 inches (19 cm) wide by 8.5 inches (21.5 cm) high.
+
+=head1 MATERIALS
+
+=head2 YARN
+
+Approximately 90 yards (82 m) of worsted weight cotton yarn. That's
+less than one ball of Lily Sugar 'N Cream (I used colorway #18083,
+Cornflower) or similar. 
+
+=head2 NEEDLES
+
+One pair US #7 (4.5 mm) straight knitting needles. 
+
+=head1 DIRECTIONS
+
+    CO 39 sts.
+    Rows 1-5:  [k1,p1] across
+    Row 6 (WS):  [k1,p1]x2, p29, [p1,k1]x2
+    Row 7 (RS):  [k1,p1]x2, k29, [p1,k1]x2
+    Row 8:  [k1,p1]x2, p8,k3,p20, [p1,k1]x2
+    Row 9:  [k1,p1]x2, k4, p3, k13, p3, k8, [p1,k1]x2
+    Row 10:  [k1,p1]x2, p9,k2,p8,k1,p5,k2,p4, [p1,k1]x2
+    Row 11:  [k1,p1]x2, k4,p2,k4,p2,k1,p3,k3,p2,k10, [p1,k1]x2
+    Row 12:  [k1,p1]x2, p10,k2,p4,k5,p4,k2,p4, [p1,k1]x2
+    Row 13:  [k1,p1]x2, k4,p2,k4,p4,k5,p2,k10, [p1,k1]x2
+    Row 14:  [k1,p1]x2, p11,k1,p5,k4,p4,k2,p4, [p1,k1]x2
+    Row 15:  [k1,p1]x2, k4,p2,k5,p2,k6,p1,k11, [p1,k1]x2
+    Row 16:  [k1,p1]x2, p11,k2,p4,k3,p6,k1,p4, [p1,k1]x2
+    Row 17:  [k1,p1]x2, k4,p1,k5,p2,k1,p2,k3,p2,k11, [p1,k1]x2
+    Row 18:  [k1,p1]x2, p11,k2,p3,k1,p3,k1,p5,k1,p4, [p1,k1]x2
+    Row 19:  [k1,p1]x2, k4,p2,k4,p1,k3,p2,k2,p2,k11, [p1,k1]x2
+    Row 20:  [k1,p1]x2, p11,k2,p2,k2,p3,k2,p3,k2,p4, [p1,k1]x2
+    Row 21:  [k1,p1]x2, k4,p1,k4,p2,k3,p2,k2,p2,k11, [p1,k1]x2
+    Row 22:  [k1,p1]x2, p11,k2,p2,k3,p2,k2,p3,k2,p4, [p1,k1]x2
+    Row 23:  [k1,p1]x2, k4,p2,k3,p2,k2,p3,k1,p3,k11, [p1,k1]x2
+    Row 24:  [k1,p1]x2, p11,k3,p1,k4,p1,k2,p3,k2,p4, [p1,k1]x2
+    Row 25:  [k1,p1]x2, k4,p2,k3,p2,k1,p4,k1,p3,k11, [p1,k1]x2
+    Row 26:  [k1,p1]x2, p11,k3,p2,k3,p1,k2,p3,k2,p1,k1,p2, [p1,k1]x2
+    Row 27:  [k1,p1]x2, k2,p1,k1,p3,k1,p3,k1,p3,k2,p3,k11, [p1,k1]x2
+    Row 28:  [k1,p1]x2, p11,k12,p1,k3,p1,k1,p2, [p1,k1]x2
+    Row 29:  [k1,p1]x2, k2,p1,k1,p3,k1,p12,k1,p3,k7, [p1,k1]x2
+    Row 30:  [k1,p1]x2, p6,k21,p1,k1,p2, [p1,k1]x2
+    Row 31:  [k1,p1]x2, k2,p1,k1,p21,k6, [p1,k1]x2
+    Row 32:  [k1,p1]x2, p5,k22,p1,k1,p2, [p1,k1]x2
+    Row 33:  [k1,p1]x2, k2,p1,k1,p22,k5, [p1,k1]x2
+    Row 34:  [k1,p1]x2, p4,k23,p1,k1,p2, [p1,k1]x2
+    Row 35:  [k1,p1]x2, k2,p25,k4, [p1,k1]x2
+    Row 36:  [k1,p1]x2, p4,k25,p2, [p1,k1]x2
+    Row 37:  [k1,p1]x2, k3,p24,k4, [p1,k1]x2
+    Row 38:  [k1,p1]x2, p4,k24,p3, [p1,k1]x2
+    Row 39:  [k1,p1]x2, k3,p17,k1,p6,k4, [p1,k1]x2
+    Row 40:  [k1,p1]x2, p4,k6,p1,k16,p4, [p1,k1]x2
+    Row 41:  [k1,p1]x2, k4,p16,k1,p6,k4, [p1,k1]x2
+    Row 42:  [k1,p1]x2, p4,k6,p2,k14,p5, [p1,k1]x2
+    Row 43:  [k1,p1]x2, k5,p14,k1,p7,k4, [p1,k1]x2
+    Row 44:  [k1,p1]x2, p4,k7,p1,k14,p5, [p1,k1]x2
+    Row 45:  [k1,p1]x2, k6,p12,k2,p6,k5, [p1,k1]x2
+    Row 46:  [k1,p1]x2, p3,k8,p3,k11,p6, [p1,k1]x2
+    Row 47:  [k1,p1]x2, k6,p10,k4,p9,k2, [p1,k1]x2
+    Row 48:  [k1,p1]x2, p2,k9,p4,k9,p7, [p1,k1]x2
+    Row 49:  [k1,p1]x2, k7,p8,k5,p9,k2, [p1,k1]x2
+    Row 50:  [k1,p1]x2, p3,k7,p6,k8,p7, [p1,k1]x2
+    Row 51:  [k1,p1]x2, k8,p6,k7,p4,k6, [p1,k1]x2
+    Row 52:  [k1,p1]x2, p7,k2,p9,k5,p8, [p1,k1]x2
+    Row 53:  [k1,p1]x2, k9,p2,k20, [p1,k1]x2
+    Rows 54-58:  [k1,p1] across
+    BO purl-wise (tee-hee).
+
+=head1 AUTHOR 
+
+oylenshpeegul (either at gmail or ravelry)
+
+=head1 COPYRIGHT 
+
+Copyright (C) 2010 Tim Heaney. All rights reserved. This pattern is free; you can redistribute it and/or modify it under the same terms as Perl itself.
+
+=head1 SEE ALSO
+
+Knitted::Bib
