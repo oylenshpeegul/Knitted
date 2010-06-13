@@ -1,0 +1,233 @@
+=head1 NAME
+
+B<Knitted::Bib> - A knitted bib with a camel motif
+
+=head1 DESCRIPTION
+
+These are complete instructions for knitting a bib with the camel
+motif from the Knitted::Dishcloth. The bib's construction is taken
+from the bibs at Cloverlaine's blog
+(L<http://downcloverlaine.blogspot.com/>). If you like this bib, but
+don't care about camels, you should totally check out the many
+wonderful bib designs she has there. They're all cuter than this one
+(including I<two> different penguin designs, you Linux nerds)!
+
+=begin pdf
+
+O<Bib.jpg>
+
+=end pdf
+
+Gauge is not important. Using the yarn and needles listed below, I got
+a bib about 7.5 inches (19 cm) wide.
+
+=begin pdf
+
+=ff
+
+=end pdf
+
+=head1 MATERIALS
+
+=head2 YARN
+
+Approximately 100 yards (91 m) of worsted weight cotton yarn. That's
+less than one ball of Lily Sugar 'N Cream (I used colorway #18742,
+Hot Blue) or similar. 
+
+=head2 NEEDLES
+
+One pair US #6 (4.0 mm) straight knitting needles. 
+
+One set of US #5 (3.75 mm) double-pointed knitting needles. Actually,
+you only need two needles, not the whole set. They are only used for
+the I-cord. Alternatively, if you look on Elaine's blog, you'll find
+instructions for doing the I-cord with a crochet hook instead.
+
+L<http://downcloverlaine.blogspot.com/2010/05/ties-that-bind.html>
+
+=head1 DIRECTIONS
+
+We're going to start by knitting the rounded bottom part with short rows.
+
+    CO 41 sts
+    [k1 p1] for 28 sts, turn (13 sts unworked)
+    sl1kw, [k1, p1] for 17 sts, turn (10 sts unworked)
+    sl1kw, [p1, k1] for 20 sts, turn (10 sts unworked)
+    sl1kw, [p1, k1] for 23 sts, turn (7 sts unworked)
+    sl1kw, [k1, p1] for 26 sts, turn (7 sts unworked)
+    sl1kw, [k1, p1] for 28 sts, turn (5 sts unworked)
+    sl1kw, [k1, p1] for 30 sts, turn (5 sts unworked)
+    sl1kw, [k1, p1] for 32 sts, turn (3 sts unworked)
+    sl1kw, [k1, p1] for 34 sts, turn (3 sts unworked)
+    sl1kw, [k1, p1] for 36 sts, turn (1 st unworked)
+    sl1kw, [k1, p1] for 38 sts, turn (1 st unworked)
+    sl1kw, [k1, p1] to end
+    [k1, p1] across
+
+Now we're going to introduce the field of stockinette on which the
+camel motif will be placed, starting on the wrong side.
+
+    Row 1 (WS): [k1, p1] for 13 sts, p15, [k1, p1] for 13 sts
+    Row 2 (RS): [k1, p1] for 12 sts, k17, [p1, k1] for 12 sts
+    Row 3: [k1, p1] for 11 sts, p19, [k1, p1] for 11 sts
+    Row 4: [k1, p1] for 10 sts, k21, [p1, k1] for 10 sts
+    Row 5: [k1, p1] for  9 sts, p23, [k1, p1] for  9 sts
+    Row 6: [k1, p1] for  8 sts, k25, [p1, k1] for  8 sts
+    Row 7: [k1, p1] for  7 sts, p6,k3,p18, [k1, p1] for  7 sts
+    Row 8: [k1, p1] for  6 sts, k3, p3, k13, p3, k7, [p1, k1] for 6 sts
+
+From now on we're going to start and end each row with k1,p1,k1,p1,k1,
+which we'll abbreviate B5.
+
+    Row  9: B5, p9,k2,p8,k1,p5,k2,p4, B5
+    Row 10: B5, k4,p2,k4,p2,k1,p3,k3,p2,k10, B5
+    Row 11: B5, p10,k2,p4,k5,p4,k2,p4, B5
+    Row 12: B5, k4,p2,k4,p4,k5,p2,k10, B5
+    Row 13: B5, p11,k1,p5,k4,p4,k2,p4, B5
+    Row 14: B5, k4,p2,k5,p2,k6,p1,k11, B5
+    Row 15: B5, p11,k2,p4,k3,p6,k1,p4, B5
+    Row 16: B5, k4,p1,k5,p2,k1,p2,k3,p2,k11, B5
+    Row 17: B5, p11,k2,p3,k1,p3,k1,p5,k1,p4, B5
+    Row 18: B5, k4,p2,k4,p1,k3,p2,k2,p2,k11, B5
+    Row 19: B5, p11,k2,p2,k2,p3,k2,p3,k2,p4, B5
+    Row 20: B5, k4,p1,k4,p2,k3,p2,k2,p2,k11, B5
+    Row 21: B5, p11,k2,p2,k3,p2,k2,p3,k2,p4, B5
+    Row 22: B5, k4,p2,k3,p2,k2,p3,k1,p3,k11, B5
+    Row 23: B5, p11,k3,p1,k4,p1,k2,p3,k2,p4, B5
+    Row 24: B5, k4,p2,k3,p2,k1,p4,k1,p3,k11, B5
+    Row 25: B5, p11,k3,p2,k3,p1,k2,p3,k2,p1,k1,p2, B5
+    Row 26: B5, k2,p1,k1,p3,k1,p3,k1,p3,k2,p3,k11, B5
+    Row 27: B5, p11,k12,p1,k3,p1,k1,p2, B5
+    Row 28: B5, k2,p1,k1,p3,k1,p12,k1,p3,k7, B5
+    Row 29: B5, p6,k21,p1,k1,p2, B5
+    Row 30: B5, k2,p1,k1,p21,k6, B5
+    Row 31: B5, p5,k22,p1,k1,p2, B5
+    Row 32: B5, k2,p1,k1,p22,k5, B5
+    Row 33: B5, p4,k23,p1,k1,p2, B5
+    Row 34: B5, k2,p25,k4, B5
+    Row 35: B5, p4,k25,p2, B5
+    Row 36: B5, k3,p24,k4, B5
+    Row 37: B5, p4,k24,p3, B5
+    Row 38: B5, k3,p17,k1,p6,k4, B5
+    Row 39: B5, p4,k6,p1,k16,p4, B5
+    Row 40: B5, k4,p16,k1,p6,k4, B5
+    Row 41: B5, p4,k6,p2,k14,p5, B5
+    Row 42: B5, k5,p14,k1,p7,k4, B5
+    Row 43: B5, p4,k7,p1,k14,p5, B5
+    Row 44: B5, k6,p12,k2,p6,k5, B5
+    Row 45: B5, p3,k8,p3,k11,p6, B5
+    Row 46: B5, k6,p10,k4,p9,k2, B5
+    Row 47: B5, p2,k9,p4,k9,p7, B5
+    Row 48: B5, k7,p8,k5,p9,k2, B5
+    Row 49: B5, p3,k7,p6,k8,p7, B5
+
+And now we stop the B5 and start to move the border back in towards
+the center.
+
+    Row 50: [k1, p1] for  6 sts, k7,p6,k7,p4,k5, [p1, k1] for 6 sts
+    Row 51: [k1, p1] for  7 sts, p5,k2,p9,k5,p6, [k1, p1] for  7 sts
+    Row 52: [k1, p1] for  8 sts, k6,p2,k17, [p1, k1] for  8 sts
+    Row 53: [k1, p1] for  9 sts, p23, [k1, p1] for  9 sts
+    Row 54: [k1, p1] for 10 sts, k21, [p1, k1] for 10 sts
+    Row 55: [k1, p1] for 11 sts, p19, [k1, p1] for 11 sts
+    Row 56: [k1, p1] for 12 sts, k17, [p1, k1] for 12 sts
+    Row 57: [k1, p1] for 13 sts, p15, [k1, p1] for 13 sts
+    Rows 58-63: k1, p1 across.
+
+Now we're done with the main part of the bib and we're going to do the
+reducing for each strap one at a time. We're working on the RS and
+we're going to start by knitting across (in the seed stitch pattern)
+14 sts for the right-hand side, then I<binding off> 13 sts in the
+middle, then knitting (in pattern) 14 sts for the left-hand side. If
+you look at Elaine's instructions, at this point she slips the first
+14 of these stitches onto a holder, but I just leave them on the
+needle. We're going to ignore them for a little while, but they won't
+really be in our way. Okay? Let's do it!
+
+    Row 64: [k1, p1] for 14 sts, BO 13 stitches kw, [p1, k1] for 14 sts
+
+Now if we hold the needle up and look at the RS, we have 14 sts on the
+right-hand side, then a big gap where the bound off sts are, then
+another 14 sts on the left-hand side, where the working yarn and the
+point of the needle are.
+
+=head2 NECK AND SHOULDER SHAPING -- LEFT SHOULDER
+
+Working with just the 14 sts on the left-hand side...
+
+    Row 65: [k1, p1] across
+    Row 66: skp, [p1, k1] across (13 sts)
+    Row 67: [k1, p1] across
+    Row 68: skp, [k1, p1] across (12 sts)
+    Row 69: [k1, p1] across
+    Row 70: skp, [p1, k1] across (11 sts)
+    Row 71: [k1, p1] across
+    Row 72: [k1, p1] to last 2 sts, p2tog. (10 sts)
+    Row 73: [p1, k1] across
+    Row 74: [k1, p1] to last 2 sts, k2tog. (9 sts)
+    Row 75: [k1, p1] across
+    Row 76: [k1, p1] to last 2 sts, p2tog. (8 sts)
+    Row 77: [p1, k1] across
+    Row 78: [k1, p1] to last 2 sts, k2tog. (7 sts)
+    Row 79: [k1, p1] across
+    Row 80: [k1, p1] to last 2 sts, p2tog. (6 sts)
+    Row 81: [p1, k1] across
+    Row 82: [k1, p1] to last 2 sts, k2tog. (5 sts)
+    Row 83: [k1, p1] across
+    Row 84: skp, k1, k2 tog. (3 sts)
+
+Slip these 3 sts onto a DPN and knit an I-cord for about 12
+inches. Cut a generous piece (more than the length of your I-cord),
+bind it off, and thread the end down through middle of the
+I-cord. Weave in the end down there.
+
+=head2 NECK AND SHOULDER SHAPING -- RIGHT SHOULDER
+
+Working with the 14 sts that are still on the straight needle, rejoin
+the working yarn.
+
+    Row 65: [p1, k1] across
+    Row 66: [k1, p1] to last 2 sts, k2tog. (13 sts)
+    Row 67: [k1, p1] across
+    Row 68: [k1, p1] to last 2 sts, p2tog. (12 sts)
+    Row 69: [p1, k1] across
+    Row 70: [k1, p1] to last 2 sts, k2tog. (11 sts)
+    Row 71: [k1, p1] across
+    Row 72: skp, [k1, p1] across (10 sts)
+    Row 73: [k1, p1] across
+    Row 74: skp, [p1, k1] across (9 sts)
+    Row 75: [k1, p1] across
+    Row 76: skp, [k1, p1] across (8 sts)
+    Row 77: [k1, p1] across
+    Row 78: skp, [p1, k1] across (7 sts)
+    Row 79: [k1, p1] across
+    Row 80: skp, [k1, p1] across (6 sts)
+    Row 81: [k1, p1] across
+    Row 82: skp, [p1, k1] across (5 sts)
+    Row 83: [k1, p1] across
+    Row 84: skp, k1, k2tog. (3 sts)
+
+Slip these 3 sts onto a DPN and knit an I-cord for about 12
+inches. Bind it off, and thread the end down through middle of the
+I-cord. Weave in the end down there.
+
+Weave in the other ends (one at the very beginning and one where we
+rejoined at the right shoulder).
+
+=head1 AUTHOR 
+
+oylenshpeegul (either at gmail or ravelry)
+
+=head1 COPYRIGHT 
+
+Copyright (c) 2010 Tim Heaney. All rights reserved. This pattern is
+free; you can redistribute it and/or modify it under the same terms as
+Perl itself.
+
+The basic bib construction was copied from the bib designs of Elaine
+Fitzpatrick, who holds the copyrights on those. Used by permission.
+
+=head1 SEE ALSO
+
+Knitted::Dishcloth
