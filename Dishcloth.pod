@@ -90,7 +90,9 @@ oylenshpeegul (either at gmail or ravelry)
 
 =head1 COPYRIGHT 
 
-Copyright (C) 2010 Tim Heaney. All rights reserved. This pattern is free; you can redistribute it and/or modify it under the same terms as Perl itself.
+Copyright (c) 2010 Tim Heaney. This pattern is free; you can
+redistribute it and/or modify it under the terms of the Artistic
+License 2.0.
 
 =head1 SEE ALSO
 
