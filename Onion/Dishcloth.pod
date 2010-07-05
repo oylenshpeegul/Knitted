@@ -1,0 +1,104 @@
+=head1 NAME
+
+B<Knitted::Onion::Dishcloth> - A knitted dishcloth with an onion motif
+
+=head1 DESCRIPTION
+
+These are complete instructions for knitting your own dishcloth. It's
+a seed stitch square with a circular reverse stockinette field. 
+An onion motif is rendered in the center in stockinette stitch.
+
+=begin pdf
+
+O<Dishcloth.jpg>
+
+=end pdf
+
+Gauge is not important. Using the yarn and needles listed below, I got
+a cloth about 7 inches (18 cm) square.
+
+=head1 MATERIALS
+
+=head2 YARN
+
+Approximately 60 yards (55 m) of worsted weight cotton yarn. That's
+less than one ball of Peaches & Creme (I used colorway 49, Deep Purple)
+or similar.
+
+=head2 NEEDLES
+
+One pair US #7 (4.5 mm) straight knitting needles. 
+
+=head1 DIRECTIONS
+
+    CO 36 sts
+    Row  1: [k1,p1]
+    Row  2: [p1,k1]
+    Row  3: [k1,p1]
+    Row  4: [p1,k1]
+    Row  5: [k1,p1]
+    Row  6: [p1,k1] for 14 sts, p9, [k1,p1] for 13 sts
+    Row  7: [k1,p1] for 12 sts, k8, p1, k3, [k1,p1] for 12 sts
+    Row  8: [p1,k1] for 11 sts, p4, k2, p3, k1, p4, [k1,p1] for 11 sts
+    Row  9: [k1,p1] for 10 sts, k5, p3, k1, p1, k6, [k1,p1] for 10 sts
+    Row 10: [p1,k1] for  9 sts, p7, k1, p1, k2, p7, [k1,p1] for 9 sts
+    Row 11: [k1,p1] for  8 sts, k20, [k1,p1] for 8 sts
+    Row 12: [p1,k1] for  8 sts, p5, k3, p4, k2, p6, [p1,k1] for 8 sts
+    Row 13: [k1,p1] for  7 sts, k5, p3, k1, p1, k2, p5, [p1,k1] for 7 sts
+    Row 14: [p1,k1] for  7 sts, p4, k2, p1, k4, p1, k2, p1, k3, p4, [k1,p1] for 7 sts
+    Row 15: [k1,p1] for  6 sts, k4, p3, k2, p2, k1, p4, k1, p3, k4, [k1,p1] for 6 sts
+    Row 16: [p1,k1] for  6 sts, p4, k2, p1, k6, p1, k2, p2, k2, p4, [p1,k1] for 6 sts
+    Row 17: [k1,p1] for  5 sts, k4, p3, k2, p2, k1, p6, k2, p2, k4, [p1,k1] for 5 sts
+    Row 18: [p1,k1] for  5 sts, p4, k2, p1, k7, p1, k2, p3, k2, p4, [k1,p1] for 5 sts
+    Row 19: [k1,p1] for  5 sts, k4, p2, k2, p2, k2, p7, k2, p2, k3, [p1,k1] for 5 sts
+    Row 20: [p1,k1] for  5 sts, p3, k2, p2, k8, p1, k2, p3, k2, p3, [k1,p1] for 5 sts
+    Row 21: [k1,p1] for  4 sts, k4, p2, k3, p2, k1, p8, k2, p2, k4, [k1,p1] for 4 sts
+    Row 22: [p1,k1] for  4 sts, p4, k2, p2, k8, p1, k2, p3, k2, p4, [p1,k1] for 4 sts
+    Row 23: [k1,p1] for  4 sts, k4, p2, k3, p2, k1, p8, k2, p2, k4, [k1,p1] for 4 sts
+    Row 24: [p1,k1] for  4 sts, p4, k2, p2, k8, p1, k2, p3, k2, p4, [p1,k1] for 4 sts
+    Row 25: [k1,p1] for  4 sts, k4, p3, k2, p2, k1, p8, k2, p2, k4, [k1,p1] for 4 sts
+    Row 26: [p1,k1] for  4 sts, p4, k2, p2, k8, p1, k2, p2, k2, p5, [p1,k1] for 4 sts
+    Row 27: [k1,p1] for  4 sts, k5, p2, k2, p2, k2, p7, k1, p2, k5, [k1,p1] for 4 sts
+    Row 28: [p1,k1] for  4 sts, p5, k2, p2, k6, p1, k2, p2, k3, p5, [p1,k1] for 4 sts
+    Row 29: [k1,p1] for  4 sts, k5, p3, k2, p2, k1, p5, k2, p3, k5, [k1,p1] for 4 sts
+    Row 30: [p1,k1] for  4 sts, p6, k3, p1, k5, p1, k2, p2, k2, p6, [p1,k1] for 4 sts
+    Row 31: [k1,p1] for  4 sts, k6, p3, k2, p1, k1, p4, k2, p2, k7, [k1,p1] for 4 sts
+    Row 32: [p1,k1] for  5 sts, p6, k3, p1, k3, p1, k2, p1, k3, p6, [k1,p1] for 5 sts
+    Row 33: [k1,p1] for  5 sts, k7, p2, k1, p2, k1, p2, k1, p2, k8, [p1,k1] for 5 sts
+    Row 34: [p1,k1] for  5 sts, p8, k3, p1, k1, p1, k1, p1, k2, p8, [k1,p1] for 5 sts
+    Row 35: [k1,p1] for  5 sts, k8, p2, k1, p1, k1, p1, k1, p2, k9, [p1,k1] for 5 sts
+    Row 36: [p1,k1] for  6 sts, p9, k3, p1, k1, p1, k1, p8, [p1,k1] for 6 sts
+    Row 37: [k1,p1] for  6 sts, k8, p2, k2, p2, k10, [k1,p1] for 6 sts
+    Row 38: [p1,k1] for  7 sts, p9, k2, p2, k1, p8, [k1,p1] for 7 sts
+    Row 39: [k1,p1] for  7 sts, k8, p1, k2, p1, k10, [p1,k1] for 7 sts
+    Row 40: [p1,k1] for  8 sts, p9, k1, p1, k1, p8, [p1,k1] for 8 sts
+    Row 41: [k1,p1] for  8 sts, k8, p1, k1, p1, k9, [k1,p1] for 8 sts
+    Row 42: [p1,k1] for  9 sts, p8, k1, p9, [k1,p1] for 9 sts
+    Row 43: [k1,p1] for  10 sts, k16, [k1,p1] for 10 sts
+    Row 44: [p1,k1] for  11 sts, p14, [k1,p1] for 11 sts
+    Row 45: [k1,p1] for  12 sts, k12, [k1,p1] for 12 sts
+    Row 46: [p1,k1] for  14 sts, p9, [k1,p1] for 13 sts
+    Row 47: [k1,p1]
+    Row 48: [p1,k1]
+    Row 49: [k1,p1]
+    Row 50: [p1,k1]
+    Row 51: [k1,p1]
+    BO
+
+
+=head1 AUTHOR 
+
+oylenshpeegul (either at gmail or ravelry)
+
+=head1 COPYRIGHT 
+
+Copyright (c) 2010 Tim Heaney. This pattern is free; you can
+redistribute it and/or modify it under the terms of the Artistic
+License 2.0.
+
+=head1 SEE ALSO
+
+Knitted::Dishcloth (which I guess should have been called
+Knitted::Camel::Dishcloth; Argh, only the second pattern and I'm
+already having namespace issues!)
+
