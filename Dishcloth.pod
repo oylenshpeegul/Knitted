@@ -33,8 +33,8 @@ One pair US #7 (4.5 mm) straight knitting needles.
 
     CO 39 sts.
     Rows 1-5:  [k1,p1] across
-    Row 6 (WS):  [k1,p1]x2, p29, [p1,k1]x2
-    Row 7 (RS):  [k1,p1]x2, k29, [p1,k1]x2
+    Row 6 (WS):  [k1,p1]x2, p31, [p1,k1]x2
+    Row 7 (RS):  [k1,p1]x2, k31, [p1,k1]x2
     Row 8:  [k1,p1]x2, p8,k3,p20, [p1,k1]x2
     Row 9:  [k1,p1]x2, k4, p3, k13, p3, k8, [p1,k1]x2
     Row 10:  [k1,p1]x2, p9,k2,p8,k1,p5,k2,p4, [p1,k1]x2
